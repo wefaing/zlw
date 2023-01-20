@@ -7,9 +7,11 @@ edit_uri: ""
 repo_name: zlw
 repo_url: 'https://github.com/wefaing/zlw'
 
+copyright: Copyright &copy; 2022 - 2023 ZLW
+
 
 theme:
-
+  custom_dir: overrides
   name: 'material'
   language: zh
   logo: assets/logo.png

@@ -11,8 +11,8 @@ copyright: Copyright &copy; 2022 - 2023 ZLW
 
 
 theme:
+  name: material
   custom_dir: overrides
-  name: 'material'
   language: zh
   logo: assets/logo.png
   favicon: assets/logo.png
@@ -89,8 +89,35 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-extra:
-  homepage: https://baidu.com
+plugins:
+  - search:
+      lang: ja
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: iso_datetime
+  - minify:
+      minify_html: true
+
+extra_javascript:
+  - js/extra.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - js/tex-mml-chtml.js
+  - js/tablesort.min.js
+  # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
 
 
 

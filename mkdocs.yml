@@ -14,15 +14,15 @@ theme:
   name: material
   custom_dir: overrides
   language: zh
-  logo: assets/logo.png
+  logo: assets/favicon.png
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
+  
+
   palette:
-
-
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -37,24 +37,18 @@ theme:
 
   features:
     - navigation.tabs
-    - content.code.copy
-    # - content.action.edit
-    # - content.action.view
-    - navigation.footer
     - navigation.tabs.sticky
-    - navigation.expand
-    # - toc.integrate
-    - navigation.top
-    # - navigation.sections
-    - search.suggest
-    # - navigation.indexes
-    - search.highlight
     - navigation.instant
     - navigation.tracking
+    - content.code.copy
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - search.highligh 
     - search.share
     - toc.follow
     - content.code.annotate
-    # - content.tabs.link
+    
 
 
 

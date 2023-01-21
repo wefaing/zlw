@@ -15,7 +15,7 @@ theme:
   custom_dir: overrides
   language: zh
   logo: assets/logo.png
-  favicon: assets/logo.png
+  favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
@@ -37,12 +37,24 @@ theme:
 
   features:
     - navigation.tabs
+    - content.code.copy
+    # - content.action.edit
+    # - content.action.view
+    - navigation.footer
+    - navigation.tabs.sticky
+    - navigation.expand
+    # - toc.integrate
+    - navigation.top
+    # - navigation.sections
+    - search.suggest
+    # - navigation.indexes
+    - search.highlight
     - navigation.instant
     - navigation.tracking
-    - navigation.top
-    - content.action.edit
-    - navigation.footer
-
+    - search.share
+    - toc.follow
+    - content.code.annotate
+    # - content.tabs.link
 
 
 

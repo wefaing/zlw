@@ -37,9 +37,9 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.instant
     - navigation.tracking
+    - navigation.top
     - content.code.copy
     - navigation.footer
     - navigation.expand

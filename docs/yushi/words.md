@@ -1,4 +1,4 @@
-# 英语单词
+## 单词
 **scope** *[skəʊp]* : n.(活动、影响等的)范围;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**remedy** *[ˈremədi]*：v.&n. 治疗、补救（办法）
                 <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（发挥能力等的）余地，机会
 
@@ -40,7 +40,7 @@
 
 **elastic** *[ɪˈlæstɪk]*：a.有弹力的，可改变的 n.橡皮圈
 
-**scatter** *[ˈskætə (r)]*：分散，撒，散开
+**scatter** *[ˈskætə\(r)]*：分散，撒，散开
 
 **motel** *[məʊˈtel]*：n.汽车旅馆
 
@@ -48,7 +48,9 @@
 
 **farewell** *[ˌfeəˈwel]*：n.欢送会，告别
 
-**nurture** *[ˈnɜːtʃə(r)]*：
+**nurture** *[ˈnɜːtʃə\(r)]*：vt&n.养育，养护
+
+##短语
 
 
 

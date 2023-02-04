@@ -132,7 +132,8 @@ nav:
   - 主页: index.md
   - 介绍:
       - 1.原生欢迎页: introduction/index.md
-      - 2.为何开始: introduction/start.md
+      - 2.自定义：introduction/index.md
+      - 3.为何开始: introduction/start.md
   - 他山之石: tashanzhishi/tashanzhishi.md
   - “玉”石: 
       - 线性代数: yushi/xianxingdaishu.md

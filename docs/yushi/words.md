@@ -1,3 +1,4 @@
+#英语
 ## 单词
 **scope** *[skəʊp]* : n.(活动、影响等的)范围;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**remedy** *[ˈremədi]*：v.&n. 治疗、补救（办法）
                 <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;（发挥能力等的）余地，机会
@@ -50,7 +51,22 @@
 
 **nurture** *[ˈnɜːtʃə\(r)]*：vt&n.养育，养护
 
+······
+
 ##短语
+**all but** 几乎，差不多；除了...都
+
+**as it were** 好比是，可谓，在某种程度上
+
+**bring off** 使实现，做成
+
+**bring forth** 产生，提出
+
+**but for** 倘没有，要不是
+
+**anything but** 根本不
+
+
 
 
 
